@@ -15,28 +15,6 @@
 
 ---
 
-## Contributing 💡
-
-
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-
-
 ## Team ✨
 
 | <a href="https://rajaprerak.github.io" target="_blank">**Prerak Raja**</a> | <a href="https://varadbhogayata.github.io" target="_blank">**Varad Bhogayata**</a> | <a href="https://aayuvraj.github.io" target="_blank">**Aayush Shah**</a> |
